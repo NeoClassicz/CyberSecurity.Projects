@@ -1,2 +1,2 @@
-remainder = 118613842%9091
+remainder = 60%12
 print(remainder)
